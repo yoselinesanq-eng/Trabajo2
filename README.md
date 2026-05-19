@@ -29,7 +29,7 @@ Instrucciones de Ejecución:
 3. El app se ejecutará en automático y se mostrará los 10 items.
 
 🔗 Links Relevantes Repositorio del proyecto:
-https://github.com/yoselinesanq-eng/Trabajo1
+https://github.com/yoselinesanq-eng/Trabajo2
 
 Aplicación desplegada en Streamlit Cloud:
 https://trabajo2-eqef2qhswqucsevn5ys4an.streamlit.app/
