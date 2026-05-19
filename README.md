@@ -28,7 +28,9 @@ Instrucciones de Ejecución:
 2. Cargar el dataset en Cargar el archivo CSV para el análsis.
 3. El app se ejecutará en automático y se mostrará los 10 items.
 
-🔗 Links Relevantes Repositorio del proyecto:
+🔗 Links Relevantes 
+
+Repositorio del proyecto:
 https://github.com/yoselinesanq-eng/Trabajo2
 
 Aplicación desplegada en Streamlit Cloud:
