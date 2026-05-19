@@ -25,7 +25,7 @@ Construcción de interfaces interactivas con Streamlit
 Instrucciones de Ejecución:
 
 1. En el menú, ingresar al módulo 2
-2. Cargar el dataset en Cargar el archivo CSV para el análsis.
+2. Cargar el dataset en Cargar el archivo CSV para el análisis.
 3. El app se ejecutará en automático y se mostrará los 10 items.
 
 🔗 Links Relevantes 
