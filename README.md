@@ -32,4 +32,4 @@ Instrucciones de Ejecución:
 https://github.com/yoselinesanq-eng/Trabajo1
 
 Aplicación desplegada en Streamlit Cloud:
-https://trabajo-final-adjuwblfd3mjvjuejwh9hu1.streamlit.app/
+https://trabajo2-eqef2qhswqucsevn5ys4an.streamlit.app/
